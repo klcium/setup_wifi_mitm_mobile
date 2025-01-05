@@ -1,8 +1,8 @@
 #!/bin/bash
 
-INTERFACE="yourinterface"
-SSID="yourcamerapwd123"
-PASS="yourcamerapwd123"
+INTERFACE="your_in_interface"
+SSID="yourwifibssid"
+PASS="yourwifipwd"
 IP_RANGE="192.168.10.10,192.168.10.50"
 NETMASK="255.255.255.0"
 BURP_PORT=8888
